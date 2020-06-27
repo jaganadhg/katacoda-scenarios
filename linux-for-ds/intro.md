@@ -1,0 +1,1 @@
+In this scenario, you will learn about basic Linux commands. The scenarios will explain the meaning and usage of the commands with examples.
