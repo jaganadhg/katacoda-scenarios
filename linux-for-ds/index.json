@@ -7,6 +7,10 @@
     "steps": [{
       "title": "Step 1 - Create and List Directory",
       "text": "step1.md"
+    },
+	{
+      "title": "Step 2 - Change Directory and Present Working Directory",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",
