@@ -1,1 +1,1 @@
-In this scenario, you will learn about basic Linux commands. The scenarios will explain the meaning and usage of the commands with examples.
+Basic Unix/Linux skills are one of the most desired skills for Data Scientists. In this scenario, you will learn about basic Linux commands. The scenarios will explain the meaning and usage of the commands with examples.

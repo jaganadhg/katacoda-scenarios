@@ -5,7 +5,7 @@
   "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - List Directory",
+      "title": "Step 1 - Create and List Directory",
       "text": "step1.md"
     }],
     "intro": {
@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n"
+    "uimessage1": "\u001b[32mWelcome to Terminal Land!!.\r\n"
   },
   "backend": {
     "imageid": "bash"

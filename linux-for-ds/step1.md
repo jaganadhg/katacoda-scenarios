@@ -20,7 +20,7 @@ Now the command lists all the directories in the present working directory.
 ## ProTip!
 If you would like to see all the contents of the present directory with details, 'll' is a handy command.
 
-'ll `{{execute}}
+`ll `{{execute}}
 
 # Fun Tip!
 Execute the below command to see the results. You could learn a new command sequence!
